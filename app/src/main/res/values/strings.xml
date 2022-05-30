@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TOwAM</string>
+    <string name="statystyki">statystyki</string>
+    <string name="rejestrator">rejestrator</string>
+    <string name="lekarz">lekarz</string>
+    <string name="archiwum">archiwum</string>
+    <string name="pacjent">PACJENT</string>
+</resources>
